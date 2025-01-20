@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.188.203/projects.ipa</string>
+					<string>https://junshush.github.io/app/projects.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
